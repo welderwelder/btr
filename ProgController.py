@@ -13,8 +13,6 @@ class ProgController:
         self.cur_prog_name = self.logger.extra.get('app_name')          # get prog name from logger extra var
         self.sw_exit_on_err = sw_exit_on_err
 
-    #
-    #
     def chk_mount(self, l_folders):
         # FOR EACH USED SUB-DIR: NEED TO VERIFY SUCCESSFUL MOUNTING (POTENTIAL ERRORS COULD BE CAUSED BY WRONG MOUNTING/
         # CHANGES IN DIR STRUCTURE/ AUTHORISATION CHANGE(SERVER/USER) ETC.
@@ -28,22 +26,18 @@ class ProgController:
                         break
                     else:
                         self.mount_vld = True
-
         except Exception as e:
             self.logger.error('%s %s' % (self.log_ref, e))
             self.mount_vld = False                  # in case of error AFTER setting ok
 
         self.chk_mount_exit()
 
-    #
-    #
     def chk_mount_exit(self):
         if self.mount_vld is False:
+            # TODO: mail?
             sys.exit()
 
-    #
-    #
-    def chk_controller(self, ctrl_folder):
+    def chk_run_controller(self, ctrl_folder):
         self.ctrl_vld = False
         worker = ''
         self.log_ref = '..CONTROLLER: PROGRAM ON/OFF SWITCH..'
@@ -68,9 +62,25 @@ class ProgController:
 
         self.chk_controller_exit()
 
-    #
-    #
     def chk_controller_exit(self):
         if self.sw_exit_on_err is True:
             if self.ctrl_vld is False:
+                # TODO: mail?
                 sys.exit()
+
+    def chk_parm(self, sys_argv):
+        if len(sys_argv) == 2:
+            parm = sys_argv[1]
+            exl_type = parm
+            # TODO
+            # TODO
+            # TODO
+        else:
+            self.chk_parm_exit()
+        return exl_type
+
+    def chk_parm_exit(self):
+        if self.sw_exit_on_err is True:
+            sys.exit()
+
+

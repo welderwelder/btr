@@ -3,8 +3,10 @@
 # -------------------------------------------------------------------------------------------------------------------
 
 from LogManager import LogManager
+from MailManager import MailManager
 from ProgController import ProgController
 from FileHandler import FileHandler
+from ExcelHandler import ExcelHandler
 import sys                                      # cur prog
 import datetime
 
@@ -41,14 +43,20 @@ def main():
     logger.info('..MAIN PROCESS START..')
     sw_exit_on_err = True
 
-    #
-    prog_ctrl = ProgController(logger, sw_exit_on_err)
-    prog_ctrl.chk_mount(l_folders_chk_mnt)
-    prog_ctrl.chk_controller('/home/mona/PycharmProjects/btr/')    # env.FILE_PATH_CONTROLLER
+    pc = ProgController(logger, sw_exit_on_err)
+    pc.chk_mount(l_folders_chk_mnt)
+    # pc.chk_run_controller('/home/mona/PycharmProjects/btr/')    # env.FILE_PATH_CONTROLLER
+    exl_type = pc.chk_parm(sys.argv)
 
-    #
-    file_handler = FileHandler(logger)
-    l_ifile_csvreadlns = file_handler.read_csv_input_file(FileFP_INPUT_WildCard)
+    mm = MailManager(logger)
+    # m a i l e r   inheritance?
+    # m a i l e r   inheritance?
+
+    fh = FileHandler(logger)
+    l_ifile_buf_csvreadlns = fh.read_csv_input_file(FileFP_INPUT_WildCard)
+
+    eh = ExcelHandler(logger, l_ifile_buf_csvreadlns, exl_type)
+    eh.exl_handle()
 
 
 #

@@ -135,10 +135,14 @@ while Running:
                 with open(FileFP_csv_in_AAA_glob, mode='r', errors='ignore') as f_csv_edit:  # mb0720
                     l_buf_f_csv_edit_readlines = f_csv_edit.readlines()  # each line=list item
                     log_ref = '..CSV LINE CHK..'
+
                     sw_csv_edited = False
+
                     buf_f_csv_edit_new = ''
+
                     cnt_chg_commas = 0
                     cnt_chg_dec_nums = 0
+
                     for line in l_buf_f_csv_edit_readlines:
                         if not ('ACCOUNT' in line or 'BRANCH' in line or 'AMOUNT' in line):
                             if len(line) != 1:  # "1"=~EOF
