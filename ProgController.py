@@ -1,15 +1,17 @@
 import os
-import platform                             # chk run platform (server name)
+import platform                                                         # chk run platform (server name)
+import sys
 
 
 class ProgController:
 
-    def __init__(self, logger):
+    def __init__(self, logger, sw_exit_on_err):
         self.mount_vld = False
         self.ctrl_vld = False
         self.logger = logger
         self.log_ref = ''
-        self.cur_prog_name = self.logger.extra.get('app_name')
+        self.cur_prog_name = self.logger.extra.get('app_name')          # get prog name from logger extra var
+        self.sw_exit_on_err = sw_exit_on_err
 
     #
     #
@@ -31,7 +33,13 @@ class ProgController:
             self.logger.error('%s %s' % (self.log_ref, e))
             self.mount_vld = False                  # in case of error AFTER setting ok
 
-        return self.mount_vld
+        self.chk_mount_exit()
+
+    #
+    #
+    def chk_mount_exit(self):
+        if self.mount_vld is False:
+            sys.exit()
 
     #
     #
@@ -58,4 +66,11 @@ class ProgController:
             self.logger.error('%s %s' % (self.log_ref, e))
             self.ctrl_vld = False                  # in case of error AFTER setting ok
 
-        return self.ctrl_vld
+        self.chk_controller_exit()
+
+    #
+    #
+    def chk_controller_exit(self):
+        if self.sw_exit_on_err is True:
+            if self.ctrl_vld is False:
+                sys.exit()

@@ -20075,3 +20075,15 @@
 2021-05-16 11:14:21,174-(ExcelHandle_CUSTDN): ProgController.py chk_controller 56 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
 2021-05-16 11:50:02,200-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 39 ..MAIN PROCESS START..
 2021-05-16 11:50:02,200-(ExcelHandle_CUSTDN): ProgController.py chk_controller 58 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. 'ProgController' object has no attribute 'cur_prog_name'
+2021-05-16 12:02:14,551-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 39 ..MAIN PROCESS START..
+2021-05-16 12:02:14,553-(ExcelHandle_CUSTDN): ProgController.py chk_controller 55 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
+2021-05-16 17:03:20,512-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:03:20,515-(ExcelHandle_CUSTDN): ProgController.py chk_controller 55 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
+2021-05-16 17:18:21,598-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:22:45,538-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:23:02,133-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:23:02,135-(ExcelHandle_CUSTDN): ProgController.py chk_controller 62 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
+2021-05-16 17:23:29,126-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:23:29,128-(ExcelHandle_CUSTDN): ProgController.py chk_controller 62 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
+2021-05-16 17:24:30,497-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 41 ..MAIN PROCESS START..
+2021-05-16 17:24:30,500-(ExcelHandle_CUSTDN): ProgController.py chk_controller 63 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. machine not found in CTRL
