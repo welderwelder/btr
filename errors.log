@@ -1,0 +1,5 @@
+2021-05-13 22:40:39,166-__main__: ProgController.py chk_mount 29 ..chk_mount.. name 'd' is not defined
+2021-05-13 22:52:51,974-__main__: ProgController.py chk_mount 27 (ExcelHandle_CUSTDN) ERROR MOUNT name 'log_ref' is not defined
+2021-05-16 11:12:10,149-(ExcelHandle_CUSTDN): ProgController.py chk_controller 59 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. can only concatenate str (not "dict") to str
+2021-05-16 11:12:27,145-(ExcelHandle_CUSTDN): ProgController.py chk_controller 59 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. can only concatenate str (not "dict") to str
+2021-05-16 11:50:02,200-(ExcelHandle_CUSTDN): ProgController.py chk_controller 58 ..CONTROLLER: PROGRAM ON/OFF SWITCH.. 'ProgController' object has no attribute 'cur_prog_name'
