@@ -53,6 +53,8 @@ def main():
     # m a i l e r   inheritance?
 
     fh = FileHandler(logger)
+    # TODO:
+    # FileFP_INPUT_WildCard should be decided by json(?) by exl_type~~
     l_ifile_buf_csvreadlns = fh.read_csv_input_file(FileFP_INPUT_WildCard)
 
     eh = ExcelHandler(logger, l_ifile_buf_csvreadlns, exl_type)
