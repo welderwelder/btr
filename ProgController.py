@@ -5,7 +5,8 @@ import sys
 
 class ProgController:
 
-    def __init__(self, logger, sw_exit_on_err):
+    def __init__(self, logger, ctrl_folder, sw_exit_on_err):
+        self.ctrl_folder = ctrl_folder
         self.mount_vld = False
         self.ctrl_vld = False
         self.logger = logger
@@ -34,16 +35,15 @@ class ProgController:
 
     def chk_mount_exit(self):
         if self.mount_vld is False:
-            # TODO: mail?
             sys.exit()
 
-    def chk_run_controller(self, ctrl_folder):
+    def chk_run_controller(self):
         self.ctrl_vld = False
         worker = ''
         self.log_ref = '..CONTROLLER: PROGRAM ON/OFF SWITCH..'
 
         try:
-            file_fp_ctrl = ctrl_folder + 'CTRL___' + self.cur_prog_name + '.txt'
+            file_fp_ctrl = self.ctrl_folder + 'CTRL___' + self.cur_prog_name + '.txt'
             run_machine = platform.node().split('.')[0]                     # platform.node() ---> 'slddev-app.fibi.corp'
 
             with open(file_fp_ctrl, mode='r') as fobj_ctrl:
@@ -65,22 +65,13 @@ class ProgController:
     def chk_controller_exit(self):
         if self.sw_exit_on_err is True:
             if self.ctrl_vld is False:
-                # TODO: mail?
                 sys.exit()
 
     def chk_parm(self, sys_argv):
-        if len(sys_argv) == 2:
-            parm = sys_argv[1]
-            exl_type = parm
-            # TODO
-            # TODO
-            # TODO
-        else:
-            self.chk_parm_exit()
-        return exl_type
-
-    def chk_parm_exit(self):
-        if self.sw_exit_on_err is True:
+        # 3 parms: [0]=prog name   [1]=exl_type    [2]=folder name
+        # sys_argv[1] ---> "custdn"
+        if len(sys_argv) is not 3:
+            self.log_ref = '** CHECK PROGRAM RUN PARMS**'
+            self.logger.error(self.log_ref)
             sys.exit()
-
-
+        return sys_argv[1], sys_argv[2]

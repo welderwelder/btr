@@ -1,18 +1,19 @@
 # import sys
+import csv
 
 
 class ExcelHandler:
 
-    def __init__(self, logger, l_ifile_buf_csvreadlns, exl_type):
+    def __init__(self, logger, csv_rdr_obj, exl_type):
         self.logger = logger
         self.log_ref = ''
-        self.l_ifile_buf_csvreadlns = l_ifile_buf_csvreadlns
+        self.csv_rdr_obj = csv_rdr_obj
 
     def chk_title_line(self):
-        l_line1_split_cma =  self.l_ifile_buf_csvreadlns[0].split(',')
+        # l_line1_split_cma =  self.l_ifile_buf_csvreadlns[0].split(',')
+        fields = next(self.csv_rdr_obj)
+        print(fields)
         # if not ('ACCOUNT' in line1 or 'BRANCH' in line or 'AMOUNT' in line):
-        # return
-        pass
 
     def rmv_title_line(self):
         try:

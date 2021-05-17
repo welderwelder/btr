@@ -20100,3 +20100,33 @@
 2021-05-16 21:13:18,747-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 44 ..MAIN PROCESS START..
 2021-05-16 21:13:42,130-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 44 ..MAIN PROCESS START..
 2021-05-16 21:14:10,984-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 43 ..MAIN PROCESS START..
+2021-05-17 20:49:25,408-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 20:51:11,411-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 21:29:00,582-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 21:29:21,468-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 21:29:21,468-(ExcelHandle_CUSTDN): ProgController.py chk_parm 75 ** CHECK PROGRAM RUN PARMS**
+2021-05-17 21:29:34,428-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 21:29:34,428-(ExcelHandle_CUSTDN): ProgController.py chk_parm 75 ** CHECK PROGRAM RUN PARMS**
+2021-05-17 21:29:50,693-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 30 ..MAIN PROCESS START..
+2021-05-17 21:32:12,383-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:33:21,304-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:40:12,330-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:41:58,729-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:44:45,578-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:45:03,645-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:45:55,981-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:45:55,981-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 50 local variable 'e' referenced before assignment
+2021-05-17 21:45:55,982-(ExcelHandle_CUSTDN): FileHandler.py vld_read_csv_input_file 63 [Errno 2] No such file or directory: ''  /home/mona/Downloads
+2021-05-17 21:46:17,397-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:46:17,398-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 42 /home/mona/Downloads 0
+2021-05-17 21:49:05,900-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:49:05,900-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads 0
+2021-05-17 21:50:08,699-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:50:08,700-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads  0
+2021-05-17 21:51:17,753-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:51:17,753-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 41 /home/mona/Downloads  0
+2021-05-17 21:51:37,614-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:51:37,615-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads  0
+2021-05-17 21:51:51,033-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:52:53,640-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 21:54:33,581-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
