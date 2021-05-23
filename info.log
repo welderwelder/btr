@@ -20130,3 +20130,174 @@
 2021-05-17 21:51:51,033-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
 2021-05-17 21:52:53,640-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
 2021-05-17 21:54:33,581-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:15:35,068-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:22:15,866-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:23:18,308-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:24:12,765-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:24:45,421-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-17 22:25:11,827-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 10:53:04,256-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 10:53:04,257-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads/  0
+2021-05-19 10:53:30,744-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 10:53:30,745-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads/  0
+2021-05-19 10:54:01,030-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 12:01:30,266-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:32:46,760-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:32:46,766-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:32:46,766-(ExcelHandle_CUSTDN): FileHandler.py handle_exl_type 78 name 'json' is not defined /home/mona/Downloads//EZR/col_list.json /home/mona/Downloads/
+2021-05-19 18:33:26,730-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:33:26,734-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:33:26,735-(ExcelHandle_CUSTDN): FileHandler.py handle_exl_type 78 name 'json' is not defined /home/mona/Downloads//EZR/col_list.json /home/mona/Downloads/
+2021-05-19 18:33:58,493-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:33:58,498-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 68 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:41:56,352-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:44:43,062-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:44:43,063-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 'list' object has no attribute 'encode' /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:45:10,603-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:50:00,547-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:54:06,239-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 18:54:27,533-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:32:29,795-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:33:21,849-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:33:32,679-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:33:40,855-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:34:32,170-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:34:54,691-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:36:54,143-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:38:04,659-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:39:05,434-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:45:16,750-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:49:24,960-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:51:56,836-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:52:13,288-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:53:30,621-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 20:54:51,972-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:07:16,153-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:07:41,118-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:07:41,123-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:07:53,545-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:07:53,550-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:08:21,075-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:08:21,080-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:09:22,714-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:10:21,536-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:10:21,542-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 Expecting property name enclosed in double quotes: line 2 column 1 (char 2) /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:11:10,147-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:12:23,115-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:12:31,511-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:14:02,689-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:15:33,444-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:50:08,257-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:50:44,524-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:52:00,316-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:54:11,784-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main 28 ..MAIN PROCESS START..
+2021-05-19 21:54:11,790-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields 39 "['rec_type'] not in index"
+2021-05-19 21:54:53,951-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 21:54:53,957-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 21:55:55,307-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 21:55:55,314-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 21:58:41,274-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 21:58:41,281-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 21:59:34,220-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:03:49,118-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:07:47,631-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:07:47,638-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields 'ExcelHandler' object has no attribute 'df_new'
+2021-05-19 22:07:53,758-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:12:42,003-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:20:28,457-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-19 22:24:38,910-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:03:36,694-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:03:36,695-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-20 10:03:49,979-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:03:49,987-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields name 'val_conv' is not defined
+2021-05-20 10:04:14,287-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:05:20,965-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:09:31,267-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:09:38,060-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:38:49,895-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:39:52,766-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:42:57,459-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:44:54,284-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:45:09,641-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 10:46:10,757-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:49:01,766-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:49:01,772-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion Expecting ',' delimiter: line 3 column 2 (char 15) /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-20 11:49:48,242-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:50:17,649-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:50:53,327-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:51:23,029-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:52:21,579-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:52:54,761-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:53:17,682-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:53:17,688-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion name 'al_conv_json' is not defined /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-20 11:53:41,389-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:54:11,993-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:54:26,538-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:55:06,639-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 11:56:03,498-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:00:55,877-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:01:52,492-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:02:13,019-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:02:48,298-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:03:02,123-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 12:09:50,350-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:27:32,725-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:27:41,308-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:29:09,019-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:29:09,019-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-20 15:29:47,331-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:32:49,636-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:33:29,912-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:34:16,793-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:34:27,690-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:34:53,658-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:35:41,671-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-20 15:35:41,686-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:23:43,417-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:23:43,424-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:05,589-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:24:05,589-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:39,799-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:24:39,805-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:57,359-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:24:57,403-(ExcelHandle_CUSTDN): FileHandler.py save_output_file name 'df' is not defined /home/mona/Downloads/AAA-IN-210523-Menora_31_20210504_180751.csv /home/mona/Downloads/
+2021-05-23 10:24:57,404-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:25:56,077-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:25:56,125-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:27:13,736-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:27:13,756-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:29:00,145-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:29:00,159-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:30:56,952-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:30:56,966-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:30:58,483-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:30:58,497-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:32:08,590-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:32:08,605-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:37:30,921-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:37:30,938-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:38:19,845-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:38:19,863-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:39:20,492-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:39:20,537-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:40:06,627-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:40:06,672-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:42:50,343-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:42:50,344-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status name 'os' is not defined
+2021-05-23 10:42:50,390-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 10:44:07,558-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 10:44:07,599-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 11:48:51,732-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:48:51,744-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields join() takes exactly one argument (7 given)
+2021-05-23 11:51:50,237-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:51:50,279-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 11:52:54,587-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:52:54,630-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**
+2021-05-23 11:53:38,436-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:53:38,436-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 11:53:48,069-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:53:48,069-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 11:53:58,260-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:53:58,260-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 11:54:26,392-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main ..MAIN PROCESS START..
+2021-05-23 11:54:26,434-(ExcelHandle_CUSTDN): ExcelHandle_CUSTDN.py main **MAIN PROCESS END**

@@ -12,3 +12,34 @@
 2021-05-17 21:50:08,700-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads  0
 2021-05-17 21:51:17,753-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 41 /home/mona/Downloads  0
 2021-05-17 21:51:37,615-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads  0
+2021-05-19 10:53:04,257-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads/  0
+2021-05-19 10:53:30,745-(ExcelHandle_CUSTDN): FileHandler.py chk_warn_err_input_file_exit 40 /home/mona/Downloads/  0
+2021-05-19 18:32:46,766-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:32:46,766-(ExcelHandle_CUSTDN): FileHandler.py handle_exl_type 78 name 'json' is not defined /home/mona/Downloads//EZR/col_list.json /home/mona/Downloads/
+2021-05-19 18:33:26,734-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:33:26,735-(ExcelHandle_CUSTDN): FileHandler.py handle_exl_type 78 name 'json' is not defined /home/mona/Downloads//EZR/col_list.json /home/mona/Downloads/
+2021-05-19 18:33:58,498-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 68 name 'ifile_read' is not defined /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 18:44:43,063-(ExcelHandle_CUSTDN): FileHandler.py read_ifile 67 'list' object has no attribute 'encode' /home/mona/Downloads/AAA-IN-Menora_31_20210504_180751-d210519.csv /home/mona/Downloads/
+2021-05-19 21:07:41,123-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:07:53,550-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:08:21,080-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 'FileHandler' object has no attribute 'val_conv_json' /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:10:21,542-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion 90 Expecting property name enclosed in double quotes: line 2 column 1 (char 2) /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-19 21:54:11,790-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields 39 "['rec_type'] not in index"
+2021-05-19 21:54:53,957-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 21:55:55,314-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 21:58:41,281-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields "['rec_type'] not in index"
+2021-05-19 22:07:47,638-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields 'ExcelHandler' object has no attribute 'df_new'
+2021-05-20 10:03:36,695-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-20 10:03:49,987-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields name 'val_conv' is not defined
+2021-05-20 11:49:01,772-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion Expecting ',' delimiter: line 3 column 2 (char 15) /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-20 11:53:17,688-(ExcelHandle_CUSTDN): FileHandler.py get_val_conversion name 'al_conv_json' is not defined /home/mona/Downloads//EZR/val_conv.json /home/mona/Downloads/
+2021-05-20 15:29:09,019-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 10:23:43,424-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:05,589-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:39,805-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status /home/mona/Downloads/  0
+2021-05-23 10:24:57,403-(ExcelHandle_CUSTDN): FileHandler.py save_output_file name 'df' is not defined /home/mona/Downloads/AAA-IN-210523-Menora_31_20210504_180751.csv /home/mona/Downloads/
+2021-05-23 10:42:50,344-(ExcelHandle_CUSTDN): FileHandler.py vld_file_status name 'os' is not defined
+2021-05-23 11:48:51,744-(ExcelHandle_CUSTDN): ExcelHandler.py normalize_fields join() takes exactly one argument (7 given)
+2021-05-23 11:53:38,436-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 11:53:48,069-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**
+2021-05-23 11:53:58,260-(ExcelHandle_CUSTDN): ProgController.py chk_parm ** CHECK PROGRAM RUN PARMS**

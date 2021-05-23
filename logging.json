@@ -3,7 +3,7 @@
     "disable_existing_loggers": false,
 
   "formatters": {
-                   "simple": { "format": "%(asctime)s-(%(app_name)s): %(filename)s %(funcName)s %(lineno)s %(message)s"}
+                   "simple": { "format": "%(asctime)s-(%(app_name)s): %(filename)s %(funcName)s %(message)s"}
                 },
 
 

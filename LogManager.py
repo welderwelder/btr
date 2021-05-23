@@ -22,8 +22,7 @@ class LogManager:
         else:
             logging.basicConfig(level=default_level)
 
-    #
-    #
+
     def get_logger(self):
         logger = logging.getLogger()
         extra = {'app_name': self.cur_prog_name}
