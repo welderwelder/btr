@@ -1,0 +1,25 @@
+{
+	"menora": [
+			"date",
+			"dep",
+			"obl_type",
+			"broker_code",
+			"broker_desc",
+			"asset_code",
+			"ticker",
+			"isin",
+			"asset",
+			"order",
+			"deal_type",
+			"vol",
+			"custody_rate",
+			"custody_sum",
+			"custody_sum_nis",
+			"bank_code",
+			"bank_desc",
+			"branch_code",
+			"acc_code",
+			"acc_desc",
+			"invest_mgr"
+			]
+}
